@@ -1,0 +1,14 @@
+flask
+pymysql
+bcrypt
+joblib
+numpy
+scipy
+scikit-learn
+torch
+torch-geometric
+python-dotenv
+pandas
+openpyxl
+cryptography
+xgboost
